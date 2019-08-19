@@ -1,0 +1,7 @@
+<?hph
+interface MyInterfaceName
+{
+ public 
+
+}
+?>
